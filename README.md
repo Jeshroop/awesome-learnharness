@@ -13,6 +13,7 @@ The unofficial awesome-learnharness repository. Contains community-made plugins 
 | [question-patterns](https://github.com/sevenRevy/question-patterns) | [sevenRevy](https://github.com/sevenRevy) | create re-usable question patters | n.a. |
 | [meme-plugin](https://github.com/808arc/meme-plugin) | [808arc](https://github.com/808arc) | brainrotting inside learnharness 🚬🫩 | n.a. |
 | [speak-english](https://github.com/wangdepin/speak-english-plugin) | [wangdepin](https://github.com/wangdepin) | write what you want to say in your own language; the plugin translates it, adds reference audio and drills it aloud: shadowing, recall and spaced review with pronunciation scoring (33 languages, Chinese → English by default) | n.a. |
+| [learnharness-backdrop](https://github.com/prinxipia/learnharness-backdrop) | [prinxipia](https://github.com/prinxipia) | add a background image to learnharness | [original msg](https://discord.com/channels/1564700211660722243/1565004663445651628/1571172426925215877) |
 
 # Themes
 Themes in learnharness are mostly a json file. So far, none of the theme creators have reached the conclusion to upload this json file somewhere outside of a discord chat, where it could easily be overlooked, and lost.
@@ -22,4 +23,3 @@ We can only pray for those poor souls.
 | --- | --- | --- |
 | GitHub dark | .fazuh  | [original message/src](https://discord.com/channels/1564700211660722243/1565004663445651628/1570270218230562837) |
 | aetheria | eclyon | [original message/src](https://discord.com/channels/1564700211660722243/1570488896519933952/1571158184389779597) |
-| unnamed white monster/cybersigilism theme | wefellinloveinoctober | [original msg](https://discord.com/channels/1564700211660722243/1565004663445651628/1571172426925215877) |
