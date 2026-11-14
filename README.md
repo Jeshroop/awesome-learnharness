@@ -16,6 +16,6 @@ The unofficial awesome-learnharness repository. Contains community-made plugins 
 # Themes
 | Name | Author(s) | Showcase |
 | --- | --- | --- |
-| GitHub dark | .fazuh  | [original message](https://discord.com/channels/1564700211660722243/1565004663445651628/1570270218230562837) |
+| GitHub dark | .fazuh  | [original message/src](https://discord.com/channels/1564700211660722243/1565004663445651628/1570270218230562837) |
 | aetheria | eclyon | [original message/src](https://discord.com/channels/1564700211660722243/1570488896519933952/1571158184389779597) |
 | unnamed white monster/cybersigilism theme | wefellinloveinoctober | [original msg](https://discord.com/channels/1564700211660722243/1565004663445651628/1571172426925215877) |
