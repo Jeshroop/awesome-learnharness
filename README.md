@@ -14,6 +14,9 @@ The unofficial awesome-learnharness repository. Contains community-made plugins 
 | [meme-plugin](https://github.com/808arc/meme-plugin) | [808arc](https://github.com/808arc) | brainrotting inside learnharness 🚬🫩 | n.a. |
 
 # Themes
+Themes in learnharness are mostly a json file. So far, none of the theme creators have reached the conclusion to upload this json file somewhere outside of a discord chat, where it could easily be overlooked, and lost.
+We can only pray for those poor souls.
+
 | Name | Author(s) | Showcase |
 | --- | --- | --- |
 | GitHub dark | .fazuh  | [original message/src](https://discord.com/channels/1564700211660722243/1565004663445651628/1570270218230562837) |
