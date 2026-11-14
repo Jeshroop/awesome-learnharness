@@ -12,6 +12,7 @@ The unofficial awesome-learnharness repository. Contains community-made plugins 
 | [learnharness-git](https://github.com/heohlee/learnharness-git) | [heohlee](https://github.com/heohlee) | „backup and sync learnharness data using git“ | n.a. |
 | [question-patterns](https://github.com/sevenRevy/question-patterns) | [sevenRevy](https://github.com/sevenRevy) | create re-usable question patters | n.a. |
 | [meme-plugin](https://github.com/808arc/meme-plugin) | [808arc](https://github.com/808arc) | brainrotting inside learnharness 🚬🫩 | n.a. |
+| [speak-english](https://github.com/wangdepin/speak-english-plugin) | [wangdepin](https://github.com/wangdepin) | write what you want to say in your own language; the plugin translates it, adds reference audio and drills it aloud: shadowing, recall and spaced review with pronunciation scoring (33 languages, Chinese → English by default) | n.a. |
 
 # Themes
 Themes in learnharness are mostly a json file. So far, none of the theme creators have reached the conclusion to upload this json file somewhere outside of a discord chat, where it could easily be overlooked, and lost.
